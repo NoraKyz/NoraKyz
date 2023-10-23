@@ -16,10 +16,9 @@
   
 | My Github Stats             | My most used languages |
 :-:|:-:
-[![Stats](https://acedev003-readme-stats.vercel.app/api?username=NoraKyz&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/NoraKyz)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=NoraKyz&layout=compact&theme=radical&hide=c%2b%2b)](https://github.com/NoraKyz)
+[![Stats](https://acedev003-readme-stats.vercel.app/api?username=NoraKyz&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)](https://github.com/NoraKyz)|[![Langs](https://acedev003-readme-stats.vercel.app/api/top-langs/?username=NoraKyz&layout=compact&theme=radical&hide=c%2b%2b,c,HTML,CMake)](https://github.com/NoraKyz)
 </table>
   </div>
-
 
 ###
 [![Contributions](https://fabianocouto-activity-graph.vercel.app/graph/?username=NoraKyz&theme=react-dark)](https://github.com/NoraKyz)
